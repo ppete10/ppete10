@@ -19,7 +19,7 @@
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=ppete10&count_private=true&theme=onedark&show_icons=true)](https://github.com/ppete10)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppete10&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/ppete10)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppete10&layout=compact&langs_count=9&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/ppete10)
 
 Here are some ideas to get you started:
 
