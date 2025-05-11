@@ -7,7 +7,7 @@
 
 <h3 align="left">Stats ₊˚✧ 🔥</h3>
 
-<img align="right" width="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYxaWpyNGppMXBrOWVqNnB4NzlwMjBsZ2t2cWIzZW9pcjFzY3huaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif"  />
+<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYxaWpyNGppMXBrOWVqNnB4NzlwMjBsZ2t2cWIzZW9pcjFzY3huaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif"  />
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ppete10&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=4&order=3" height="160" alt="streak graph"   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ppete10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="160" alt="languages graph"  />
